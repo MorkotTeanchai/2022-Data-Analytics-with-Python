@@ -2,7 +2,7 @@
 
 **Online Class Name:** Data Analytics with Python
 
-**By:** SCB Academy with ผู้ช่วยศาสตราจารย์ ดร.รัฐชัย ชาวอุทัย
+**By:** SCB Academy โดย ผู้ช่วยศาสตราจารย์ ดร.รัฐชัย ชาวอุทัย
 
 **Date/Time :** 2022
 
